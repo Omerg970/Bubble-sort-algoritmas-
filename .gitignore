@@ -1,0 +1,13 @@
+# Visual Studio gereksizleri
+.vs/
+Debug/
+Release/
+x64/
+x86/
+
+# Derleme dosyaları
+*.exe
+*.obj
+*.pdb
+*.user
+*.sln.dotsettings.user
